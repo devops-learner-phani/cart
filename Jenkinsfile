@@ -2,4 +2,4 @@
 
 nodejs()
 
-env.COMPONENT='cart'
+env.COMPONENT="cart"
